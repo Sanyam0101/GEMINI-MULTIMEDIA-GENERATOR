@@ -1,0 +1,7 @@
+{
+  "name": " Multimedia Suite",
+  "description": "An application to generate videos from images using Veo and have real-time voice conversations using the Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
